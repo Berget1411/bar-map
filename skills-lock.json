@@ -21,6 +21,16 @@
       "sourceType": "github",
       "computedHash": "c7a4ae9efeb7ef47c6473ee4d636fced825a0c26b25372a49417075f6d566af6"
     },
+    "maplibre-pmtiles-patterns": {
+      "source": "maplibre/maplibre-agent-skills",
+      "sourceType": "github",
+      "computedHash": "72b366459120241717da08dfe0b5746c80dc1b901739277aabd19b35708e3931"
+    },
+    "maplibre-tile-sources": {
+      "source": "maplibre/maplibre-agent-skills",
+      "sourceType": "github",
+      "computedHash": "e51e45c3a8dc4fd85aaa9ef0e322cdd4e5f7a856c0c8d04a84bd654816e7a3a9"
+    },
     "neon-postgres": {
       "source": "neondatabase/agent-skills",
       "sourceType": "github",
