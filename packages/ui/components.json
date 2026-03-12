@@ -1,6 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema.json",
-  "style": "radix-lyra",
+  "style": "radix-maia",
   "rsc": false,
   "tsx": true,
   "tailwind": {
@@ -11,14 +11,16 @@
     "prefix": ""
   },
   "iconLibrary": "lucide",
+  "menuColor": "default",
+  "menuAccent": "subtle",
   "aliases": {
     "components": "@open-learn/ui/components",
     "utils": "@open-learn/ui/lib/utils",
-    "hooks": "@open-learn/ui/hooks",
+    "ui": "@open-learn/ui/components",
     "lib": "@open-learn/ui/lib",
-    "ui": "@open-learn/ui/components"
+    "hooks": "@open-learn/ui/hooks"
   },
-  "menuColor": "default",
-  "menuAccent": "subtle",
-  "registries": {}
+  "registries": {
+    "@mapcn": "https://mapcn.dev/r/{name}.json"
+  }
 }

@@ -6,6 +6,8 @@
 - Prefer extending an existing feature over adding a new shared abstraction.
 - Keep transport thin, business logic in services, and DB access in `packages/db` repositories.
 - Do not edit generated files unless the generating workflow requires it.
+- Always run react-doctor after long assignments to improve react code
+- for map always use mapcn skill
 
 ## Where To Work
 

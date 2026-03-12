@@ -1,4 +1,8 @@
-# template
+# Interactice Bar Map
+
+## Product description
+
+Map that displays bars and night clubs in Stockholm, their beverage prices, vibe, filter for activities, navigate to bar, ongoing pub crawls, tickets to night clubs.
 
 ## Features
 
