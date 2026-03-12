@@ -1,0 +1,4 @@
+interface:
+  display_name: "TanStack Table"
+  short_description: "Build sortable, filterable React data tables."
+  default_prompt: "Use TanStack Table and the shared UI primitives in this repo to build or refactor an interactive data table with the right level of sorting, filtering, pagination, and selection."

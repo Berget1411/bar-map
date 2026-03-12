@@ -1,0 +1,26 @@
+{
+  "name": "@open-learn/auth",
+  "type": "module",
+  "exports": {
+    ".": {
+      "default": "./src/index.ts"
+    },
+    "./*": {
+      "default": "./src/*.ts"
+    }
+  },
+  "scripts": {},
+  "dependencies": {
+    "@open-learn/db": "workspace:*",
+    "@open-learn/env": "workspace:*",
+    "@polar-sh/better-auth": "catalog:",
+    "@polar-sh/sdk": "^0.42.2",
+    "better-auth": "catalog:",
+    "dotenv": "catalog:",
+    "zod": "catalog:"
+  },
+  "devDependencies": {
+    "@open-learn/config": "workspace:*",
+    "typescript": "^5"
+  }
+}

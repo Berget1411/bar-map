@@ -1,0 +1,4 @@
+interface:
+  display_name: "TanStack Form"
+  short_description: "Build forms in React using TanStack Form and Zod."
+  default_prompt: "Build or refactor an accessible React form with TanStack Form, Zod validation, and repo-native field components."
